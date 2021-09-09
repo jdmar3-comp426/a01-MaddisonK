@@ -1,0 +1,46 @@
+p {
+    margin-right: 33%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ 
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+ 
+h2 {
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+ 
+.center {
+    margin-left: 25%;
+}
+ 
+br {
+    padding-bottom: 30px;
+}
+ 
+#storytext {
+    text-indent: 45px;
+}
+
+
+.resizer {
+    width: 75%;
+    height: 75%;
+}
+
+span {
+    display: inline-block;
+}
+
+img:hover {
+    border-style: dashed;
+}
+
+a:hover {
+    color: #008000;
+}
