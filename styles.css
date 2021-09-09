@@ -12,7 +12,7 @@ h1 {
 h2 {
     text-align: left;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
+    margin: 0px;
 }
  
 .center {
@@ -43,4 +43,23 @@ img:hover {
 
 a:hover {
     color: #008000;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;  
+    margin: auto;
+    margin-top: 5%;
+}
+.flex-heading {
+    display: flex;
+    justify-content: space-between;
+}
+.prev-next {
+    text-align: center;
+    background-color: bisque;
+    border: black;
+    border-style: solid;
+    margin: auto;
+    padding: 10px 5px;
 }
