@@ -8,6 +8,7 @@ h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-style: solid;
     margin-top: 0px;
+    background-color: #817fa1;
 }
  
 h2 {
@@ -55,8 +56,10 @@ a:hover {
 .flex-heading {
     display: flex;
     justify-content: space-between;
+    padding-left: 5px; border-width: 3px; border-style: groove; margin-right: 33%; border-color: red; border-top: white; border-right: white;
 }
 .prev-next {
+    margin: 0px;
     text-align: center;
     background-color: #D3D3D3;
     border: black;
