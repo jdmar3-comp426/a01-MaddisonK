@@ -53,6 +53,7 @@ a:hover {
     margin-right: -10%;
     margin-top: 15px;
 }
+
 .flex-heading {
     display: flex;
     justify-content: space-between;
@@ -64,6 +65,7 @@ a:hover {
     border-top: white;
     border-right: white;
 }
+
 .prev-next {
     margin: 0px;
     text-align: center;
@@ -85,4 +87,8 @@ h3 {
     margin: 50px 10px;
     font-size: 100px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div > img {
+    text-shadow: yellow;
 }
